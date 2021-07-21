@@ -1,0 +1,13 @@
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.exe
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.deps.json
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.runtimeconfig.json
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.runtimeconfig.dev.json
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.dll
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\bin\Debug\netcoreapp3.1\MonitorAeropuerto.pdb
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.csprojAssemblyReference.cache
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.AssemblyInfoInputs.cache
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.AssemblyInfo.cs
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.csproj.CoreCompileInputs.cache
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.dll
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.pdb
+E:\maestria\modulo2\MonitorAeropuerto\MonitorAeropuerto\obj\Debug\netcoreapp3.1\MonitorAeropuerto.genruntimeconfig.cache
